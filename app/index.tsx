@@ -18,13 +18,13 @@ import {
 
 // Firebase configuration (ensure this is correct)
 const firebaseConfig = {
-  apiKey: "AIzaSyDAGy-LE_zlDGQzFUX1BN_ukdGJptu4hQg",
-  authDomain: "smart-socket-5569e.firebaseapp.com",
-  databaseURL: "https://smart-socket-5569e-default-rtdb.firebaseio.com",
-  projectId: "smart-socket-5569e",
-  storageBucket: "smart-socket-5569e.firebasestorage.app",
-  messagingSenderId: "499097667526",
-  appId: "1:499097667526:web:9fb92186cc82e99dec54c7"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
